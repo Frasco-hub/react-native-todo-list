@@ -1,0 +1,30 @@
+Requirements for Todo List App (React Native + Expo)
+1. Project Setup
+
+Use Expo for easy development and testing.
+Install dependencies (expo install react-native-paper, react-navigation, etc.).
+2. Core Features
+
+Add Tasks → Users can input and add new tasks.
+Edit Tasks → Users can modify existing tasks.
+Delete Tasks → Users can remove tasks.
+Mark as Complete → Toggle task completion status.
+3. UI & UX
+
+Simple and intuitive interface.
+Use React Native Paper or Styled Components for styling.
+Light and Dark Mode support (optional).
+4. Data Storage
+
+Use AsyncStorage or SQLite for local storage.
+Optionally integrate Firebase for cloud sync.
+5. Navigation
+
+Home Screen → Displays the list of tasks.
+Task Detail Screen (optional) → Shows detailed view and editing options.
+6. Additional Features (Optional)
+
+Categories or Tags for tasks.
+Notifications & Reminders using expo-notifications.
+Drag and Drop Sorting for tasks.
+Authentication (if using Firebase).
