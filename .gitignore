@@ -9,11 +9,6 @@ dist/
 web-build/
 expo-env.d.ts
 
-#firebase
-config/firebaseConfig.ts
-.requirments.txt
-.cursorrules
-
 # Native
 *.orig.*
 *.jks
@@ -41,3 +36,5 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+config/firebaseConfig.ts
+.cursorrules
