@@ -9,6 +9,11 @@ dist/
 web-build/
 expo-env.d.ts
 
+#firebase
+config/firebaseConfig.ts
+.requirments.txt
+.cursorrules
+
 # Native
 *.orig.*
 *.jks
